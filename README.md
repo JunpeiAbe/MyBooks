@@ -34,9 +34,9 @@ MyBooksは、Google Books APIから書籍情報を取得し、ユーザーが書
 
 ## 動作環境
 
-・Xcode 13以上
+・Xcode 14.3
 
-・iOS 15以上
+・iOS 16.0以上
 
 ## 連絡先
 
